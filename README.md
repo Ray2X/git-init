@@ -1,3 +1,6 @@
+# fork comment: jin
+git基本操作的动画演示，做的很好！
+
 # Git init
 
 Resources to learn the basics of git ([link](https://pel-daniel.github.io/git-init)).
